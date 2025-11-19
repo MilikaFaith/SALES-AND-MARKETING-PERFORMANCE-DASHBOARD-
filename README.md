@@ -49,4 +49,6 @@ A 5-minute stakeholder walkthrough explaining:
 - Key findings
 - Business implications & recommendations
 
+[Watch Walkthrough Video](https://www.loom.com/share/99218415d2844d6690125bf09f92a658?sid=3b1e71c6-e215-418d-b2c3-4d9b5206aaf5)
+
 
