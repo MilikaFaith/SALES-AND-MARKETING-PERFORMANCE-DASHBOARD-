@@ -39,9 +39,9 @@ This project uses:
 -  **Slicers/Filters** for interactivity (Year, Product Category, Lead Source, Rep)
 -  Clean, user-centered layout with intuitive navigation
 
-## Dashboard Preview
-![Dashboard]()
-![Forecast]()
+## 📷 Dashboard Preview
+Dashboard
+![Dashboard](Images/Dashboard.PNG)
 
 ## 🎥 Walkthrough Video
 A 5-minute stakeholder walkthrough explaining:
